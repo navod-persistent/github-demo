@@ -16,3 +16,6 @@ def multiply(x,y):
 # Devide
 def divide(x,y):
     return x / y
+
+def square(x):
+    return x*x
